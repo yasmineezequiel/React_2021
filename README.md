@@ -27,3 +27,5 @@ Deep dive React course including:
 
 ## Section 6:
 - Ways of styling React components: Inline stying, Styled Components and CSS Module.
+<img width="1440" alt="Screenshot 2022-01-11 at 19 28 38" src="https://user-images.githubusercontent.com/52795566/149000977-da5a8d4d-4da0-49e9-8478-d1a830e3b220.png">
+
