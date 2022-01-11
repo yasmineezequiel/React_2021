@@ -24,3 +24,6 @@ Deep dive React course including:
 ## Section 1 to 5:
 - Diving deep into React building an expenses application working with state, useState hook, events, forms, btns, etc
 ![Screenshot 2022-01-08 at 16 02 08 (2)](https://user-images.githubusercontent.com/52795566/148649087-6ed18d7f-7974-47ec-bdab-34b09c526b73.png)
+
+## Section 6:
+- Ways of styling React components: Inline stying, Styled Components and CSS Module.
